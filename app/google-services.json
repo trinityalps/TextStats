@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47731468875",
+    "firebase_url": "https://textstats-bbe1e.firebaseio.com",
+    "project_id": "textstats-bbe1e",
+    "storage_bucket": "textstats-bbe1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47731468875:android:0adba43408a8e67a",
+        "android_client_info": {
+          "package_name": "textsnoop.rddigi.com.textstats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47731468875-dmup53mk6qjnrvgsn71mhqsqkjbfletm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "textsnoop.rddigi.com.textstats",
+            "certificate_hash": "3cf52b2fa11edba50461b8e49abf7cf0e858d692"
+          }
+        },
+        {
+          "client_id": "47731468875-0lcg0jmvkucf0ui1lvr6ktt6923mitrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJo1ZlvxD89hoVUPO_jt1Agur0ugIu70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47731468875-0lcg0jmvkucf0ui1lvr6ktt6923mitrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
